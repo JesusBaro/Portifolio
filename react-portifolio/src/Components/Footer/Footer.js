@@ -4,7 +4,7 @@ import * as S from "./StyledFooter.js"
 export default function Footer() {
   return (
     <S.Footer>
-<h1>oi</h1>
+<h4>Site deselvolvido e idelizado por Jésus Baro® </h4>
 
     </S.Footer>
   );
