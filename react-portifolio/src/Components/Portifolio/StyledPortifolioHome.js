@@ -1,6 +1,6 @@
 import styled from "styled-components";
-export const Section = styled.Section`
+export const Section = styled.section`
 border:solid red;
-height:80vh;
+height:100vh;
 
 `
